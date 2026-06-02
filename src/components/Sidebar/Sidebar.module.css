@@ -1,0 +1,16 @@
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  border: 1px solid #fff;
+  height: 100dvh;
+  text-align: center;
+  padding-inline: 0.5rem;
+}
+.nav {
+  color: #fff;
+}
+.nav.active {
+  color: var(--accent);
+}
