@@ -1,0 +1,8 @@
+.miniplayer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 2rem;
+  border: 1px solid red;
+  margin-block-start: auto;
+}
